@@ -1,5 +1,4 @@
 // simplest sorting approach, first element is compare with next element, is first is greater than second , swap each other.
-
 #include<iostream>
 using namespace std;
 
